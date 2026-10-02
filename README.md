@@ -1,2 +1,5 @@
-# FactoryMind
-> **FactoryMind — AI-powered smart manufacturing decision intelligence that connects machine risk, operational impact, predictive maintenance, energy efficiency, production resilience, and decarbonisation in one auditable workflow. Built to help factories move from isolated machine alerts to clear, context-aware decisions that improve things
+# Documentation
+
+- `P2_Final_Validation.md` — machine-intelligence freeze, Golden Demo values and guardrails.
+- `P4_Operational_Stress_Test.md` — operational criticality, PBRI, What-If stress test and provenance.
+- `DEMO_RUNBOOK.md` — the judge-facing 3-minute live demonstration sequence.

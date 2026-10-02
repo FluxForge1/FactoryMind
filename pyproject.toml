@@ -1,0 +1,12 @@
+[project]
+name = "factorymind"
+version = "1.0.0"
+description = "FactoryMind smart-manufacturing decision center by FluxForge"
+requires-python = ">=3.10"
+dependencies = [
+  "streamlit>=1.38,<2",
+  "pandas>=2.0,<3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["validation"]
